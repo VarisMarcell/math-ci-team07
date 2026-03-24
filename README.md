@@ -1,0 +1,1 @@
+[![CI Pipeline](https://github.com/VarisMarcell/math-ci-team07/actions/workflows/ci.yml/badge.svg)](https://github.com/VarisMarcell/math-ci-team07/actions/workflows/ci.yml)
